@@ -1,0 +1,5 @@
+name: 'GitHub Discussions Telegram'
+description: 'Notify GitHub Discussion & Comment to Telegram'
+branding:
+  icon: 'at-sign'
+  color: 'orange'
